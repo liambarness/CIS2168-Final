@@ -1,3 +1,3 @@
-# finalcode
+# Final Data Structures Exam Code Samples
 
-# contains useful java files for specific tasks
+# Contains java files with useful functions to assist in the open book exam.
